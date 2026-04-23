@@ -14,3 +14,7 @@ This project is a fully functional e-commerce bakery website built using WordPre
 - Shipping and payment configuration
 - Product filtering using plugin
 - Custom UI styling using CSS
+
+## Documentation
+
+Detailed documentation is available in repository.
