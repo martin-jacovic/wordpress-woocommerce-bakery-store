@@ -1,4 +1,4 @@
-# Bakery WordPress/WooCommerce store
+# WordPress/WooCommerce bakery store
 
 This project is a fully functional e-commerce bakery website built using WordPress and WooCommerce. It was developed as a university project to demonstrate the implementation of an online store with product management, categories, and custom styling.
 
