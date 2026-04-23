@@ -1,2 +1,2 @@
 # wordpress-woocommerce-bakery-store
-WooCommerce bakery e-commerce website with products, categories, variable and grouped products, and custom styling using CSS.
+WordPress bakery e-commerce website built with WooCommerce featuring products, product categories, and custom styling using CSS.
